@@ -25,4 +25,6 @@ links
 <img width="130" height="75" alt="Untitled55_20260920005441" src="https://github.com/user-attachments/assets/1c2c4c37-826a-4cd3-97d8-02ff73bf7e41" />
 <br>
 
+"𝘐 𝘤𝘰𝘶𝘭𝘥𝘯'𝘵 𝘤𝘰𝘯𝘵𝘳𝘰𝘭 𝘮𝘺 𝘢𝘤𝘵𝘪𝘰𝘯𝘴, 𝘰𝘩, 𝘣𝘶𝘵 𝘎𝘰𝘥, 𝘐 𝘸𝘢𝘴 𝘴𝘵𝘪𝘭𝘭 𝘢𝘸𝘢𝘳𝘦. 𝘍𝘰𝘳𝘨𝘪𝘷𝘦 𝘮𝘦."
+
 </div>
