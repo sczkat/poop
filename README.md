@@ -28,4 +28,9 @@ links
 
 "𝘐 𝘤𝘰𝘶𝘭𝘥𝘯'𝘵 𝘤𝘰𝘯𝘵𝘳𝘰𝘭 𝘮𝘺 𝘢𝘤𝘵𝘪𝘰𝘯𝘴, 𝘰𝘩, 𝘣𝘶𝘵 𝘎𝘰𝘥, 𝘐 𝘸𝘢𝘴 𝘴𝘵𝘪𝘭𝘭 𝘢𝘸𝘢𝘳𝘦. 𝘍𝘰𝘳𝘨𝘪𝘷𝘦 𝘮𝘦."
 
+<br>
+<br>
+<img width="1280" height="103" alt="Untitled57_20260920010852" src="https://github.com/user-attachments/assets/fded63cb-c669-41af-a00d-de96bce941b2" />
+
+
 </div>
