@@ -30,7 +30,7 @@ links
 
 <br>
 <br>
-<img width="1000" height="90" alt="image_2026-09-20_011340390" src="https://github.com/user-attachments/assets/8ac865bb-ce0f-41f8-8a91-ad89dbac124a" />
+<img width="700" height="50" alt="image_2026-09-20_011340390" src="https://github.com/user-attachments/assets/8ac865bb-ce0f-41f8-8a91-ad89dbac124a" />
 
 
 </div>
