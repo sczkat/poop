@@ -12,8 +12,9 @@
 
 <br>
 <br>
-<img width="35" height="35" alt="tumblr_1e68be920af6383de1923afc57767498_003d9414_250" src="https://github.com/user-attachments/assets/bce3b688-3cfb-4d31-ab0c-eb077d7f6a8e" />
-name/pronouns/age <img width="35" height="35" alt="tumblr_d6490f481a7088bcb90cc6598c39e8e8_e91d5c38_250" src="https://github.com/user-attachments/assets/fa5fb199-aea9-42fb-8ee0-3bc80c3cefc6" />
+<img width="25" height="25" alt="tumblr_16f4f462be972a605d8ba5bf47e0a70a_45407b1e_75" src="https://github.com/user-attachments/assets/91eb1fdf-40b6-498c-90c3-a792c00ef607" />
+name/pronouns/age <img width="25" height="25" alt="tumblr_c4aa1f966e50e829b9e5d0175d6a61b9_6a8450a7_75" src="https://github.com/user-attachments/assets/a4b3c75f-591f-4e4f-a482-7e6de44a96a1" />
+
 
 <br>
 info info ^_^
